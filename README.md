@@ -8,9 +8,7 @@ Contributors
 - Yi Yao
 - Qianyi Li
 
-
-<footnote> The projects is currently written in jupyter notebook using python<\footnote>
-
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ## Progress report
 - [x] Sponsor meeting and guidline discussion
 - [x] Data Preprocessing
