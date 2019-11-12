@@ -11,6 +11,7 @@ Contributors
 
 <footnote> The projects is currently written in jupyter notebook using python<\footnote>
 
+## Progress report
 - [x] Sponsor meeting and guidline discussion
 - [x] Data Preprocessing
 - [x] Data Merging
