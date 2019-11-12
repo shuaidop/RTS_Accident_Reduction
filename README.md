@@ -3,9 +3,18 @@
 
 
 Contributors
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Shuaidong Pan
+- Faner Lin
+- Yi Yao
+- Qianyi Li
 
 
 <footnote> The projects is currently written in jupyter notebook using python<\footnote>
+
+- [x] Sponsor meeting and guidline discussion
+- [ ] Data Preprocessing
+- [ ] Data Merging
+- [ ] Data Merging
+- [ ] Data Merging
+- [ ] Data Merging
+- [ ]
