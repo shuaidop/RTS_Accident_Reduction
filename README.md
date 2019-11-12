@@ -12,9 +12,11 @@ Contributors
 <footnote> The projects is currently written in jupyter notebook using python<\footnote>
 
 - [x] Sponsor meeting and guidline discussion
-- [ ] Data Preprocessing
-- [ ] Data Merging
-- [ ] Data Merging
-- [ ] Data Merging
-- [ ] Data Merging
-- [ ]
+- [x] Data Preprocessing
+- [x] Data Merging
+- [x] Data Mining
+- [x] New Variable Construction
+- [x] Pattern Mining
+- [x] Association, Classification, Clustering
+- [ ] Evaluation & Visualization
+- [ ] Final Report construction
