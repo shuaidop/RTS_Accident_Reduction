@@ -10,9 +10,9 @@ Contributors
 
 ## Outline of the documents
   1.[Gnereal Overview]()
-  1.[Single variable analysis]()
-  1.[Multi variable anakysis]()
-  1.[Absent type dataframe analysis](./RTS_3.ipynb)
+  2.[Single variable analysis]()
+  3.[Multi variable anakysis](./RTS_2.ipynb)
+  4.[Absent type dataframe analysis](./RTS_3.ipynb)
 ## Progress report
 - [x] Sponsor meeting and guidline discussion
 - [x] Data Preprocessing
