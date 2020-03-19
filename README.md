@@ -22,7 +22,7 @@ Contributors
 - [x] New Variable Construction
 - [x] Pattern Mining
 - [x] Association, Classification, Clustering
-- [ ] Evaluation & Visualization
-- [ ] Final Report construction
+- [x] Evaluation & Visualization
+- [x] Final Report construction
 
 <sup>1</sup> The work is mainly written in jupyter notebook using Python.
